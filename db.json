@@ -2,7 +2,7 @@
   "items": [
     {
       "id": "1",
-      "text": "Sample item 1",
+      "text": "Make a sandwich",
       "checked": false,
       "editMode": false,
       "priority": "high",
@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "text": "Sample item 2",
+      "text": "Make salsa",
       "checked": true,
       "editMode": false,
       "priority": "medium",
@@ -18,18 +18,13 @@
     },
     {
       "id": "3",
-      "text": "Sample item 3",
+      "text": "Make pasta",
       "checked": false,
       "editMode": true,
       "priority": "low",
       "priorityColor": "green"
-    },
-    {
-      "id": "467c",
-      "text": "",
-      "checked": false,
-      "editMode": false,
-      "priority": ""
     }
+   
+     
   ]
 }
