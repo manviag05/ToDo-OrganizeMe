@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "text": "Sample item 1",
+      "checked": false,
+      "editMode": false,
+      "priority": "high",
+      "priorityColor": "red"
+    },
+    {
+      "id": "2",
+      "text": "Sample item 2",
+      "checked": true,
+      "editMode": false,
+      "priority": "medium",
+      "priorityColor": "blue"
+    },
+    {
+      "id": "3",
+      "text": "Sample item 3",
+      "checked": false,
+      "editMode": true,
+      "priority": "low",
+      "priorityColor": "green"
+    },
+    {
+      "id": "467c",
+      "text": "",
+      "checked": false,
+      "editMode": false,
+      "priority": ""
+    }
+  ]
+}
